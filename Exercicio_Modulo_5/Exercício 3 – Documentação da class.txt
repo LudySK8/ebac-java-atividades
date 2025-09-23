@@ -1,0 +1,9 @@
+Exercício 3 – Documentação da classe Calculadora
+
+A documentação foi incluída na classe Calculadora e seus métodos no exercício 1.
+
+Resposta à pergunta:
+
+Você conseguiria entender o código que escreveu sem documentá-lo? Justifique sua resposta.
+
+Sim, o código é relativamente simples e as operações matemáticas são básicas, então para um desenvolvedor experiente, entender o que cada método faz poderia ser intuitivo mesmo sem comentários. Porém, a documentação é importante para esclarecer detalhes como exceções lançadas (ex: divisão por zero) e para manter um padrão que facilite a manutenção, especialmente em projetos maiores ou quando outras pessoas forem ler o código. Portanto, mesmo em códigos simples, documentar é uma boa prática para garantir clareza e evitar ambiguidades no futuro.
